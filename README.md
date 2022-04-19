@@ -1,2 +1,2 @@
 # Car-Price-Prediction-Model
-Predicting the car price on the basis of given data 
+Creating a model using Linear Regression on given data set of car having all details of cars like - Car Name, Engine Type, Fuel Type, Fuel System, Symboling etc. There were 26 rows and 205 data entry  in dataset. This data was firstly cleaned and then was carefully analyzed for generating insights and finding the important variables for making model. OLS method was used for checking the r-squared and adjusted r-squared values after building model to further analyze the important variable for model to improve accuracy and reduce multi collinearity for better prediction. And at last we found MSE, RMSE and MAE to finally check the stability of model.
